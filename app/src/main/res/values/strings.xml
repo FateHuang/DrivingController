@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DCToolKit</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="operating_instruction">操作说明</string>
+    <string name="restoration">恢复出厂设置</string>
+    <string name="save">保存</string>
+    <string name="title_activity_dialog">请选择需要抑制的按钮</string>
+
+</resources>

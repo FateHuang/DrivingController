@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".DrivingController" >
+    <item android:id="@+id/menuRestoration"
+        android:title="@string/restoration"
+        android:orderInCategory="70"
+        android:showAsAction="always" />
+    <item android:id="@+id/menuInstruction"
+        android:title="@string/operating_instruction"
+        android:orderInCategory="80"
+        android:showAsAction="always" />
+    <item android:id="@+id/menuexit"
+        android:title="退出"
+        android:orderInCategory="100"
+        android:showAsAction="always"/>
+
+</menu>
